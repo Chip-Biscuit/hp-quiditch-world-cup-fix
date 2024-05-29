@@ -10,6 +10,8 @@ you can edit settings in d3d8.ini
 
 Default for resolution is 2 (1920 x 1080) 
 
+Default for FOV is 0 origional game setting, you can set this to whatever you like in d3d9.ini
+
 Default for aspect ratio is 1 (16:9)
 
 Default for FPS is 60 
