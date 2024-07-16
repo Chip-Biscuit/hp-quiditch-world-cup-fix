@@ -1,9 +1,5 @@
 # hp-quiditch-world-cup-fix
 
-This is the harry potter Quiditch World Cup d3d8 wrapper which is based from 13AG d3d8.dll wrapper
-
-https://github.com/ThirteenAG/d3d8-wrapper
-
 simply go to releases download hpqwcfix.zip put the d3d8.dll and d3d8.ini into your game folder next to the game exe and your good to go 
 
 you can edit settings in d3d8.ini 
@@ -25,3 +21,7 @@ brought to you by Fix Enhancers
 Team: 
 
 Chip, JokerAlex21, Blankname.
+
+This is the harry potter Quiditch World Cup d3d8 wrapper which is based from 13AG d3d8.dll wrapper
+
+https://github.com/ThirteenAG/d3d8-wrapper
