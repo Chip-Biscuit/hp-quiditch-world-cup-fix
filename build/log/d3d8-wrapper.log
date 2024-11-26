@@ -1,0 +1,61 @@
+﻿  IDirect3D8.cpp
+  IDirect3DCubeTexture8.cpp
+  IDirect3DDevice8.cpp
+  IDirect3DIndexBuffer8.cpp
+  IDirect3DSurface8.cpp
+  IDirect3DSwapChain8.cpp
+  IDirect3DTexture8.cpp
+  IDirect3DVertexBuffer8.cpp
+  IDirect3DVolume8.cpp
+  IDirect3DVolumeTexture8.cpp
+  InterfaceQuery.cpp
+  dllmain.cpp
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(214,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(349,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(461,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(678,29): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(678,29): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(678,34): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(678,34): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(678,39): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(678,39): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(678,51): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(678,51): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(679,27): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(679,27): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(679,32): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(679,32): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(679,39): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(679,39): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(679,51): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(679,51): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(680,29): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(680,29): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(680,34): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(680,34): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(680,39): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(680,39): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(680,51): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(680,51): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(681,27): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(681,27): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(681,32): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(681,32): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(681,39): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(681,39): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(681,51): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(681,51): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(682,27): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(682,27): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(682,30): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(682,30): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(682,35): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(682,35): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(682,47): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(682,47): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(673,21): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(700,44): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\source\dllmain.cpp(1365,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+     Creating library ..\data\d3d8.lib and object ..\data\d3d8.exp
+  d3d8-wrapper.vcxproj -> C:\Users\Chip\Desktop\Fixes\Source Code  Release-18-06-24 V1.0\hp-quiditch-world-cup-fix-main\hp-quiditch-world-cup-fix-main\data\d3d8.dll
