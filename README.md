@@ -2,6 +2,8 @@
 
 This is the harry potter Quiditch World Cup d3d8 wrapper.
 
+IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
+
 simply go to releases download hpqwcfix.zip put the d3d8.dll and d3d8.ini into your game folder next to the game exe and your good to go 
 
 you can edit settings in d3d8.ini 
